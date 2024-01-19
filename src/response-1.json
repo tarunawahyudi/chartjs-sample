@@ -1,0 +1,18 @@
+{
+    "total_funding_orders": "1339",
+    "total_funding_nominal": "40.065.899.634,00",
+    "total_match_orders": "2120",
+    "total_lender_based_on_age": {
+        "male": 10,
+        "female": 20,
+        "unknown": 30
+    },
+    "total_lender_based_on_island": {
+        "sumatera": 10,
+        "sulawesi": 38,
+        "kalimantan": 20,
+        "jawa": 30,
+        "maluku_papua": 20,
+        "bali_and_ntt": 15
+    }
+}

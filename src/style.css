@@ -1,4 +1,7 @@
 .canvas {
-  width: 30vw;
-  height: 50vh;
+  display: flex;
+}
+
+.container {
+  width: 50%; /* Mengatur lebar masing-masing elemen */
 }
